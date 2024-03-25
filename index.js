@@ -12,4 +12,4 @@ setInterval(()=>{
         counter = 0
     } 
  
-}, 500)
+}, 100)
